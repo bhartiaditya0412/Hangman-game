@@ -32,6 +32,9 @@ const words = [
   "length",
   "type",
   "node",
+  "reality",
+  "playing",
+  "website",
 ];
 let selectedWord = words[Math.floor(Math.random() * words.length)];
 
